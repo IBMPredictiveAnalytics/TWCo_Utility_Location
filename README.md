@@ -15,7 +15,7 @@ Utility API called Location Services that allows a user to convert a set of addr
 ---
 # Reference
 [The Weather Company](http://www.theweathercompany.com/)  
-[TWCo Forecast Daily](http://goo.gl/AoxGl3)
+[TWCo Utility Location Services](https://goo.gl/AHVSL3)
 
 ---
 #Requirements
